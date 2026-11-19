@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Venkadesh M S! 👋
 
-<!--
-**venkadesh-ms/venkadesh-ms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Biotechnology Student | Aspiring Bioinformatics Researcher
 
-Here are some ideas to get you started:
+## 👨‍🔬 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final-year B.Tech Biotechnology student interested in exploring the intersection of biotechnology and computational sciences.
+
+- 🎓 B.Tech Biotechnology Student
+- 🧬 Interested in Bioinformatics and Computational Biology
+- 🔬 Research interest in Molecular Biology and Drug Discovery
+- 💻 Currently developing programming and data analysis skills
+- 🌱 Learning Python and Bioinformatics
+
+## 🎯 Areas of Interest
+
+- Bioinformatics
+- Computational Biology
+- Genomics
+- Molecular Docking
+- Drug Discovery
+- Biological Data Analysis
+
+## 🔬 Academic Project
+
+**Formulation, Phytochemical Characterization and Biological Evaluation of a Polyherbal Wound-Healing Ointment Using Bauhinia tomentosa and Plectranthus amboinicus.**
+
+## 📚 Currently Learning
+
+- Python Programming
+- Bioinformatics Fundamentals
+- Computational Biology
+- Data Analysis
+
+## 📫 Contact
+
+- Email: msvenkadesh222@gmail.com
+- GitHub: https://github.com/venkadesh-ms
